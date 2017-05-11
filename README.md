@@ -1,4 +1,4 @@
 OpenSchool
 ==========
 
-Open School Managemetn system 
+Open Source - Students and School Managemetn System for schools in and arround Addis Ababe
